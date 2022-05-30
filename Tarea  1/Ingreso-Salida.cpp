@@ -98,7 +98,7 @@ void AjusteNegativo()
     int cantidad = 0;
 
     system("cls");
-    cout<<"Ajuste Positivo de Inventario" << endl;
+    cout<<"Ajuste Negativo de Inventario" << endl;
     cout<<"*****************************" << endl;
     cout<<"Ingrese el codigo del producto"<<endl;
     cin>>codigo;
