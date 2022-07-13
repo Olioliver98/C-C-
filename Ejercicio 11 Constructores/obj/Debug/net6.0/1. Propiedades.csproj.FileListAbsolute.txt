@@ -1,0 +1,30 @@
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\bin\Debug\net6.0\1. Propiedades.exe
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\bin\Debug\net6.0\1. Propiedades.deps.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\bin\Debug\net6.0\1. Propiedades.runtimeconfig.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\bin\Debug\net6.0\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\bin\Debug\net6.0\1. Propiedades.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.AssemblyInfo.cs
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\refint\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\1. Propiedades.genruntimeconfig.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\1. Propiedades\obj\Debug\net6.0\ref\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.AssemblyInfo.cs
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\refint\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\bin\Debug\net6.0\1. Propiedades.exe
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\bin\Debug\net6.0\1. Propiedades.deps.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\bin\Debug\net6.0\1. Propiedades.runtimeconfig.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\bin\Debug\net6.0\1. Propiedades.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\bin\Debug\net6.0\1. Propiedades.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\1. Propiedades.genruntimeconfig.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 11 Constructores\obj\Debug\net6.0\ref\1. Propiedades.dll
