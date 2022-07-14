@@ -1,0 +1,15 @@
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\bin\Debug\net6.0\listados.exe
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\bin\Debug\net6.0\listados.deps.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\bin\Debug\net6.0\listados.runtimeconfig.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\bin\Debug\net6.0\listados.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\bin\Debug\net6.0\listados.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.AssemblyInfo.cs
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\refint\listados.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\listados.genruntimeconfig.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio 19 List y ForEach\listados\obj\Debug\net6.0\ref\listados.dll
