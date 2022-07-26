@@ -1,4 +1,4 @@
-public class Cliente 
+public class Clientes 
 {
     public int Codigo { get; set; }
 
@@ -7,7 +7,7 @@ public class Cliente
     public string Telefono { get; set; }
 
 
-    public Cliente (int codigo, string nombre, string telefono)
+    public Clientes (int codigo, string nombre, string telefono)
     {
         Codigo = codigo;
         Nombre = nombre;
