@@ -1,0 +1,15 @@
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\bin\Debug\net6.0\10-Ordenes.exe
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\bin\Debug\net6.0\10-Ordenes.deps.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\bin\Debug\net6.0\10-Ordenes.runtimeconfig.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\bin\Debug\net6.0\10-Ordenes.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\bin\Debug\net6.0\10-Ordenes.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.AssemblyInfo.cs
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\refint\10-Ordenes.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\10-Ordenes.genruntimeconfig.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C-C-\Ejercicio  21 Ordenes creando clase Producto\10-Ordenes\obj\Debug\net6.0\ref\10-Ordenes.dll
