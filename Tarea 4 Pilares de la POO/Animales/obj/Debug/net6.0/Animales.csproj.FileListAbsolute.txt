@@ -1,0 +1,30 @@
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\bin\Debug\net6.0\Animales.exe
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\bin\Debug\net6.0\Animales.deps.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\bin\Debug\net6.0\Animales.runtimeconfig.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\bin\Debug\net6.0\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\bin\Debug\net6.0\Animales.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.AssemblyInfo.cs
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\refint\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\Animales.genruntimeconfig.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\TAREA NUEVA TEMPORAL\Animales\obj\Debug\net6.0\ref\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\bin\Debug\net6.0\Animales.exe
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\bin\Debug\net6.0\Animales.deps.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\bin\Debug\net6.0\Animales.runtimeconfig.json
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\bin\Debug\net6.0\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\bin\Debug\net6.0\Animales.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.AssemblyInfo.cs
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\refint\Animales.dll
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.pdb
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\Animales.genruntimeconfig.cache
+C:\Users\olive\Desktop\C# and C++\Visual Studio Co\C#\Tarea 4 Pilares de la POO\Animales\obj\Debug\net6.0\ref\Animales.dll
