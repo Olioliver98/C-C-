@@ -28,7 +28,7 @@ namespace Millonaire
                 Console.WriteLine("Selecciona la dificultad para comenzar");
                 Console.WriteLine("");
                 Console.WriteLine("1. Conocedor");
-                Console.WriteLine("2. Culto");
+                Console.WriteLine("2. Erudito");
                 Console.WriteLine("0. Salir");
                 Dificultad = Console.ReadLine();
                 
@@ -46,15 +46,12 @@ namespace Millonaire
                 switch (Dificultad) 
                 {
                     case "1":
-                        Preguntas.DefiConocedor();
+                        Preguntas.DifiConocedor();
                         
                         break;
                         
                     case "2":
-                        Console.WriteLine("¿ Te consideras una persona culta ?");
-                        Console.WriteLine("¡ Demuestralo !");
-                        Console.WriteLine("");
-                        //Ingresar Metodo Culto
+                       Preguntas.DifiErudito();
                         break;
                         
                     default:
