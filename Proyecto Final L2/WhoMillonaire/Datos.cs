@@ -1,4 +1,5 @@
 using System;
+using System.Linq; // Por el Random se usa
 using System.Collections.Generic;
 
 public class Datos
@@ -17,6 +18,24 @@ public class Datos
         CargarPreguntasErudito();
 
     }
+//--------------------------------------RANDOM--------------------------------------
+
+    /* Creando una funcion Random
+    public void RandomErudito() 
+    {
+      Random Randonautica = new Random();
+      int RandomErudito = Randonautica.Next(1, 7);
+
+        // Ver numero random Console.WriteLine("The Random Number is: " + RandomErudito);
+    }
+
+    public void NumeroErudito()
+    {
+        foreach (var Erudito in ListaErudito)
+        {
+            Console.WriteLine(Erudito.NumeroPreg);
+        }
+    }*/
 
 // --------------------------PARAMETROS--------------------------------------
 
@@ -70,7 +89,7 @@ public class Datos
 
     }
 
-    //----------------------------------------------Funciones-------------------------------------------
+    //----------------------------------------------Funcione Conocedor-------------------------------------------
 
 
     /// ARREGLAR LO DE LOS COMODINES PARA QUE NO SE CIERRE SI SE SELECCIONA 2
@@ -79,12 +98,13 @@ public class Datos
         //Variables
         int MostrarResp = 3;
         string Comod = "";
-        int Puntuacion = 0;
+        double Puntuacion = 0;
         string Respuesta = "";
-        int ConteoPremio = 0;
-        int Premio = 0;
-        string EndGame = "";
-        string End = "";
+        double ConteoPremio = 0;
+        double Premio = 0;
+        int EndGame = 0;
+        int End = 1;
+        
 
         Console.Clear();
         Console.WriteLine("         ¿Has escogido Conocedor?");
@@ -95,6 +115,9 @@ public class Datos
 
         foreach (var Conocedor in ListaConocedor)
         {
+            Console.WriteLine("Comodines Disponibles: " + MostrarResp);
+            Console.WriteLine("Premio Ganado $: " + Premio);
+            Console.WriteLine("");
             Console.WriteLine("PREGUNTA: " );
             Console.WriteLine(Conocedor.Preguntas);
             Console.WriteLine("");
@@ -128,8 +151,8 @@ public class Datos
 
             if (Respuesta == Conocedor.MostRespuesta)
             {
-                Console.WriteLine("Respuesta Correcta");
-                Puntuacion = Puntuacion + 10;
+                Console.WriteLine("Respuesta Correcta!!");
+                Puntuacion = Puntuacion + 114.28;
                 ConteoPremio = Puntuacion * 50;
                 Premio = Premio + ConteoPremio;
                 Console.WriteLine("---------------------------------------------------------------------");
@@ -139,7 +162,7 @@ public class Datos
             // Si la respuesta es incorrecta se hace verdadea la linea 111 y se cumple la condicional EndGame
             if (Respuesta != Conocedor.MostRespuesta)
             {
-                EndGame = End;
+                EndGame = EndGame + 1;
                 Console.WriteLine("Respuesta Incorrecta");
                 Console.WriteLine("");
                 Console.WriteLine("La Respuesta Correcta es: " + Conocedor.MostRespuesta);
@@ -148,6 +171,7 @@ public class Datos
                 break;
             }
         }
+
 
         if (EndGame == End)
         {
@@ -162,22 +186,22 @@ public class Datos
             Console.WriteLine("¡Has Ganado!");
             Console.WriteLine("");
             Console.WriteLine("Puntuacion Final: " + Puntuacion);
-            Console.WriteLine("Dinero en efectivo ganado: $" + Premio);
+            Console.WriteLine("Dinero en efectivo ganado: $." + Premio);
             Console.ReadLine();
         } 
     }  
 
-//-------------------------------------------------------------------------------------
+//----------------------------------------Funcion Erudito-------------------------------------------------
 
     public void DifiErudito()
     {   
         //Variables
         int MostrarRespEru = 3;
         string ComodEru = "";
-        int PuntuacionEru = 0;
+        double PuntuacionEru = 0;
         string RespuestaEru = "";
-        int ConteoPremioEru = 0;
-        int PremioEru = 0;
+        double ConteoPremioEru = 0;
+        double PremioEru = 0;
         int EndGameEru = 0;
         int EndEru = 1;
 
@@ -190,6 +214,10 @@ public class Datos
 
         foreach (var Erudito in ListaErudito)
         {
+            
+            Console.WriteLine("Comodines Disponibles: " + MostrarRespEru);
+            Console.WriteLine("Premio Ganado $: " + PremioEru);
+            Console.WriteLine("");
             Console.WriteLine("PREGUNTA: " + Erudito.NumeroPreg );
             Console.WriteLine(Erudito.HacerPreguntas);
             Console.WriteLine("");
@@ -200,6 +228,7 @@ public class Datos
             // Si el usuario ingresa 1 se inicia el condicional
             if (ComodEru == "1")
             {
+
                 //Si no tiene comodin muestra esto
                 if (MostrarRespEru == 0)
                 {
@@ -217,14 +246,14 @@ public class Datos
                     Console.WriteLine("");
                 }
             }
-
+            
             Console.WriteLine("Ingrese su respuesta");
             RespuestaEru = Console.ReadLine();
 
             if (RespuestaEru == Erudito.MostrarRespuesta)
             {
-                Console.WriteLine("Respuesta Correcta");
-                PuntuacionEru = PuntuacionEru + 20;
+                Console.WriteLine("Respuesta Correcta!!!!");
+                PuntuacionEru = PuntuacionEru + 14.28;
                 ConteoPremioEru = PuntuacionEru * 100;
                 PremioEru = PremioEru + ConteoPremioEru;
                 Console.WriteLine("----------------------------------------------------------");
@@ -241,8 +270,7 @@ public class Datos
                 Console.WriteLine("");
                 Console.ReadLine();
                 break;
-                
-            }
+            }   
         }
 
         if (EndGameEru == EndEru)
@@ -257,10 +285,9 @@ public class Datos
             Console.WriteLine("¡Has Ganado!");
             Console.WriteLine("");
             Console.WriteLine("Puntuacion Final: " + PuntuacionEru);
-            Console.WriteLine("Dinero en efectivo ganado: $" + PremioEru);
+            Console.WriteLine("Dinero en efectivo ganado: $." + PremioEru);
             Console.ReadLine();
-        }
-         
+        } 
     }
 }
 

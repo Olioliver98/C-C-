@@ -1,4 +1,7 @@
+
+
 public class Erudito
+
 {
     
     public int NumeroPreg { get; set; }
@@ -15,6 +18,4 @@ public class Erudito
         
        
     }
-
-
 }
