@@ -12,9 +12,14 @@ namespace Millonaire
             string Name = "";
             string Dificultad = "";
 
-            Console.WriteLine("             ¡ QUIEN QUIERE SER MILLONARIO !");
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("");
-            Console.WriteLine("Participante ingresa tu nombre");
+            Console.WriteLine("");
+            Console.WriteLine("                             ¡ Q U I E N   Q U I E R E   S E R   M I L L O N A R I O !");
+            Console.WriteLine("_____________________________________________________________________________________________________________________");
+            Console.WriteLine("\n");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("                                        Participante ingresa tu nombre");
             Name = Console.ReadLine();
             Console.WriteLine("");
           
@@ -24,12 +29,20 @@ namespace Millonaire
             while (true)
             {    
                 Console.Clear();     
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("\n");
                 Console.WriteLine("Bienvenido " + Name + "!");
-                Console.WriteLine("Selecciona la dificultad para comenzar");
                 Console.WriteLine("");
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("SELECCIONA LA DIFICULTAD PARA COMENZAR");
+                Console.WriteLine("");
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine("1. Conocedor");
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("2. Erudito");
-                Console.WriteLine("0. Salir");
+                Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.WriteLine("0. Huir de aqui");
+                Console.ForegroundColor = ConsoleColor.White;
                 Dificultad = Console.ReadLine();
                 
 
@@ -53,7 +66,7 @@ namespace Millonaire
                     case "2":
                        Preguntas.DifiErudito();
                         break;
-                        
+
                     default:
                         break;
                 } 

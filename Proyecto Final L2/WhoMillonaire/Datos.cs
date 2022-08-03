@@ -61,6 +61,9 @@ public class Datos
 
         Conocedor Preg_7 = new Conocedor("¿Qué planta es el símbolo nacional de Irlanda?", "Trebol");
         ListaConocedor.Add(Preg_7);
+
+        Conocedor Preg_8 = new Conocedor("¿Cual es el gentilicio dado a los habitantes de Argentina", "Argentinos");
+        ListaConocedor.Add(Preg_8);
     }
 
     public void CargarPreguntasErudito()
@@ -85,6 +88,10 @@ public class Datos
 
         Erudito Pregu_7 = new Erudito(7, "Si un día decidieras sembrar semillas de Quercus robur. ¿Qué crecería?", "Arbol");
         ListaErudito.Add(Pregu_7);
+
+        Erudito Pregu_8 = new Erudito(8, "Entidad cósmica más famosa creada por el escritor estadounidense de terror Howard Phillips Lovecraft?", "Cthulhu");
+        ListaErudito.Add(Pregu_8);
+        
 
 
     }
@@ -115,8 +122,11 @@ public class Datos
 
         foreach (var Conocedor in ListaConocedor)
         {
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Comodines Disponibles: " + MostrarResp);
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Premio Ganado $: " + Premio);
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("");
             Console.WriteLine("PREGUNTA: " );
             Console.WriteLine(Conocedor.Preguntas);
@@ -131,18 +141,23 @@ public class Datos
                 //Si no tiene comodin muestra esto
                 if (MostrarResp == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine("No tiene comodines disponibles");
                     Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.White;
                 }
 
                 //Si tiene comodin procede con esto
                 if (MostrarResp == 1 | MostrarResp == 2 | MostrarResp == 3)
                 {
                     MostrarResp = MostrarResp - 1;
+                    Console.ForegroundColor = ConsoleColor.DarkCyan;
                     Console.WriteLine("La respuesta es: " + Conocedor.MostRespuesta);
                     Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.DarkGray;
                     Console.WriteLine("Ingrese la respuesta mostrata anteriormente");
                     Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.White;
                 }
             }
 
@@ -151,8 +166,11 @@ public class Datos
 
             if (Respuesta == Conocedor.MostRespuesta)
             {
-                Console.WriteLine("Respuesta Correcta!!");
-                Puntuacion = Puntuacion + 114.28;
+                Console.WriteLine("");
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("Respuesta Correcta !!!");
+                Console.ForegroundColor = ConsoleColor.White;
+                Puntuacion = Puntuacion + 12.5;
                 ConteoPremio = Puntuacion * 50;
                 Premio = Premio + ConteoPremio;
                 Console.WriteLine("---------------------------------------------------------------------");
@@ -175,19 +193,23 @@ public class Datos
 
         if (EndGame == End)
         {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Game over!");
             Console.WriteLine("Has Perdido todo!");
             Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.White;
 
         }
 
         else
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("¡Has Ganado!");
             Console.WriteLine("");
             Console.WriteLine("Puntuacion Final: " + Puntuacion);
             Console.WriteLine("Dinero en efectivo ganado: $." + Premio);
             Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.White;
         } 
     }  
 
@@ -215,8 +237,11 @@ public class Datos
         foreach (var Erudito in ListaErudito)
         {
             
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Comodines Disponibles: " + MostrarRespEru);
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Premio Ganado $: " + PremioEru);
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("");
             Console.WriteLine("PREGUNTA: " + Erudito.NumeroPreg );
             Console.WriteLine(Erudito.HacerPreguntas);
@@ -232,18 +257,23 @@ public class Datos
                 //Si no tiene comodin muestra esto
                 if (MostrarRespEru == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine("No tiene comodines disponibles");
                     Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.White;
                 }
 
                 //Si tiene comodin procede con esto
                 if (MostrarRespEru == 1 | MostrarRespEru == 2 | MostrarRespEru == 3)
                 {
                     MostrarRespEru = MostrarRespEru - 1;
+                    Console.ForegroundColor = ConsoleColor.DarkCyan;
                     Console.WriteLine("La respuesta es: " + Erudito.MostrarRespuesta);
                     Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.DarkGray;
                     Console.WriteLine("Ingrese la respuesta mostrata anteriormente");
                     Console.WriteLine("");
+                    Console.ForegroundColor = ConsoleColor.White;
                 }
             }
             
@@ -251,9 +281,12 @@ public class Datos
             RespuestaEru = Console.ReadLine();
 
             if (RespuestaEru == Erudito.MostrarRespuesta)
-            {
-                Console.WriteLine("Respuesta Correcta!!!!");
-                PuntuacionEru = PuntuacionEru + 14.28;
+            {   
+                Console.WriteLine("");
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("Respuesta Correcta !!!");
+                Console.ForegroundColor = ConsoleColor.White;
+                PuntuacionEru = PuntuacionEru + 12.5;
                 ConteoPremioEru = PuntuacionEru * 100;
                 PremioEru = PremioEru + ConteoPremioEru;
                 Console.WriteLine("----------------------------------------------------------");
@@ -275,18 +308,23 @@ public class Datos
 
         if (EndGameEru == EndEru)
         {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Game over!");
             Console.WriteLine("Has Perdido todo!");
             Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.White;
+
         }
 
         else
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("¡Has Ganado!");
             Console.WriteLine("");
             Console.WriteLine("Puntuacion Final: " + PuntuacionEru);
             Console.WriteLine("Dinero en efectivo ganado: $." + PremioEru);
             Console.ReadLine();
+            Console.ForegroundColor = ConsoleColor.White;
         } 
     }
 }
