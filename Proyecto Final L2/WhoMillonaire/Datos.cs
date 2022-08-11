@@ -56,7 +56,7 @@ public class Datos
         Conocedor Preg_5 = new Conocedor("¿Qué parte importante de la topografía de Estados Unidos comprende aproximadamente un 20% del agua dulce de la Tierra?" , "Lagos");
         ListaConocedor.Add(Preg_5);
 
-        Conocedor Preg_6 = new Conocedor("En el típico chiste, ¿qué viene antes de que alguien conteste:¿Quién es?", "Toc-toc");
+        Conocedor Preg_6 = new Conocedor("En el típico chiste, ¿Qué viene antes de que alguien conteste:¿Quién es?", "Toc-toc");
         ListaConocedor.Add(Preg_6);
 
         Conocedor Preg_7 = new Conocedor("¿Qué planta es el símbolo nacional de Irlanda?", "Trebol");
@@ -194,7 +194,7 @@ public class Datos
         if (EndGame == End)
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("Game over!");
+            Console.WriteLine("Game Over!");
             Console.WriteLine("Has Perdido todo!");
             Console.ReadLine();
             Console.ForegroundColor = ConsoleColor.White;
@@ -309,7 +309,7 @@ public class Datos
         if (EndGameEru == EndEru)
         {
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("Game over!");
+            Console.WriteLine("Game Over!");
             Console.WriteLine("Has Perdido todo!");
             Console.ReadLine();
             Console.ForegroundColor = ConsoleColor.White;
